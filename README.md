@@ -17,7 +17,7 @@ A trained radiologist reads the bead labels off the combined image to determine 
 A proprietary software analyzes the results.  
 
 ## Special thanks
-To Scott Collins for bringing the issues to me, handling all the image processing and transpositions, and discussing potential solutions with me,  
+To Scott Collins, radiology technologist, for mentoring me on medical image processing and interpretation, bringing this issue to my attention, discussing potential solutions, providing the coding platform, developing the 3D models, handling all the image processing and transpositions, and producing the sample image,  
 To Dr. Wael Asaad, for explaining the problem, SEEG, and related analyses and for vetting our solution, 
 To many medical students and residents who identified cases we prototyped with.
 
