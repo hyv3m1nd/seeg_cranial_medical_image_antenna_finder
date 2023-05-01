@@ -20,9 +20,10 @@ We cannot merge them directly, since we observed that:
 (3) A typical MRI's brain structure is at ~100.  
 Therefore, the brain would show up as black if the antennae scan and the MRI scan are merged directly.  
 Our workaround is applying a linear scale to the antennae scan to bring the maximum brightness to 100 before the scans are merged.  
-### generating precise antennae labels  
-We made precise 3D models of each antenna model based on vendor dimension charts.  
-After combining the antennae and the brain MRI, precise 3D models corresponding to each used antenna model, with labeled beads (which are segments that measure brain activities), are superimposed onto the image using the tips and entry points of each antennae as guides.  
+### Generating precise antennae labels  
+The antennae have beads that measure brain activity.  
+We made precise 3D models of each antenna model based on vendor dimension charts, with labeled beads.  
+After combining the antennae and the brain MRI, precise 3D models corresponding to each used antenna model are superimposed onto the image using the tips and entry points of each antenna as guides.  
 A trained radiologist reads the bead labels off the combined image to determine the precise locations where each measurement occurs.  
 A proprietary software analyzes the results.  
 
