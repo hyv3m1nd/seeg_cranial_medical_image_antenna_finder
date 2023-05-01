@@ -28,8 +28,8 @@ A trained radiologist reads the bead labels off the combined image to determine 
 A proprietary software analyzes the results.  
 
 ## Special thanks
-To Scott Collins, radiology technologist, for mentoring me on medical image processing and interpretation, bringing this issue to my attention, discussing potential solutions, providing the coding platform, developing the 3D models, handling all the image processing and transpositions, and producing the sample image,  
-To Dr. Wael Asaad, for explaining the problem, SEEG procedure, and related analyses and for vetting our solution,  
-To many medical students and residents who identified the cases we prototyped with.  
+To **Scott Collins**, radiology technologist, for mentoring me on medical image processing and interpretation, bringing this issue to my attention, discussing potential solutions, providing the coding platform, developing the 3D models, handling all the image processing and transpositions, and producing the sample image,  
+To **Wael Asaad**, M.D., for explaining the problem, SEEG procedure, and related analyses and for vetting our solution,  
+To many **medical students** and **residents** who identified the cases we prototyped with.  
   
 This code was written in 2021. It has been put in practice on a weekly basis.  
