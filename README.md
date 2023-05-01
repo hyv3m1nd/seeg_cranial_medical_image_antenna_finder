@@ -17,7 +17,7 @@ The next task is to ensure both the anatomical structure and the antennae remain
 We cannot merge them directly, since we observed that:  
 (1) A typical commercial viewer sets each image's default brightness scale based on the image's hounsfield unit statistics.  
 (2) The antennae remain at ~3000 hounsfield units.  
-(3) A typical MRI's brain structure is at ~100.  
+(3) A typical MRI's brain structure is at ~100 hounsfield units.  
 Therefore, the brain would show up as black if the antennae scan and the MRI scan are merged directly.  
 Our workaround is applying a linear scale to the antennae scan to bring the maximum brightness to 100 before the scans are merged.  
 ### Generating precise antennae labels  
