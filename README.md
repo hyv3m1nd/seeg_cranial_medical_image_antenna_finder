@@ -32,4 +32,4 @@ To **Scott Collins**, radiology technologist, for mentoring me on medical image 
 To **Wael Asaad**, M.D., for explaining the problem, SEEG procedure, and related analyses and for vetting our solution,  
 To many **medical students** and **residents** who identified the cases we prototyped with.  
   
-This code was written in 2021. It has been put in practice on a weekly basis.  
+This code was written in 2021. It has been put in practice on a monthly basis.  
